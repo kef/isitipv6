@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9184ebb0-6336-4f5c-909c-cd6f9c16e67f" name="Default" comment="" />
+    <list default="true" id="9184ebb0-6336-4f5c-909c-cd6f9c16e67f" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="isitipv6.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -27,7 +29,7 @@
       <file leaf-file-name="README.rdoc" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.rdoc">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="0" selection-start="1228" selection-end="1228" vertical-scroll-proportion="0.39647576">
+            <state line="2" column="118" selection-start="134" selection-end="134" vertical-scroll-proportion="0.051391862">
               <folding />
             </state>
           </provider>
@@ -173,7 +175,7 @@
     <option name="CHANGED_ON_SERVER_INTERVAL" value="5" />
     <option name="SHOW_ONLY_CHANGED_IN_SELECTION_DIFF" value="true" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added RubyMine gem configuration." />
+    <option name="LAST_COMMIT_MESSAGE" value="Tidied up description in README." />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -190,6 +192,7 @@
     <MESSAGE value="Filled in README." />
     <MESSAGE value="Created as a Rails 3.0 web app." />
     <MESSAGE value="Added RubyMine gem configuration." />
+    <MESSAGE value="Tidied up description in README." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -197,7 +200,7 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/README.rdoc">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="0" selection-start="1228" selection-end="1228" vertical-scroll-proportion="0.39647576">
+        <state line="2" column="118" selection-start="134" selection-end="134" vertical-scroll-proportion="0.051391862">
           <folding />
         </state>
       </provider>
