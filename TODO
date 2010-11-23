@@ -1,0 +1,5 @@
+To Do
+-----
+
+* List hardware, software and domains which support IPv6.
+* Automatically do a DNS check for AAAA records for domains.
